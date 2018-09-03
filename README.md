@@ -1,8 +1,8 @@
 # springcloud-microservicecloud-test
 以springcloud作为微服务架构，测试Eureka、Ribbon、Hystrix、zuul、SpringCloud Config等功能
 
-开发工具：eclipse
-开发环境：jdk1.8+oracle11
+开发工具：eclipse<br/>
+开发环境：jdk1.8+oracle11<br />
          springboot：1.5.9.RELEASE
          springcloud：Dalston.SR1
          
